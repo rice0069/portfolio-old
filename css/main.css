@@ -21,3 +21,9 @@ body {
     height: 50%;
 }
 
+/* Decreases the size of the movie poster in the Graphic Design Work accordion item. */
+.movie-poster {
+    width: 80%;
+    height: 80%;
+}
+
